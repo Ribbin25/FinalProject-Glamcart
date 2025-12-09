@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = "Reviews";
+}
+
+<h1 class="my-4 text-center">Product Reviews</h1>
+
+@if (!Model.Review.Any())
+{
+    <p class="text-center text-muted">No reviews yet.</p>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Rating</th>
+                <th>Comment</th>
+            </tr>
+        </thead>
+<tbody>
+@foreach (var item in Model.Review)
+{
+    <tr>
+        <td>@item.Product.Name</td>
+        <td>@item.Rating / 5</td>
+        <td>@item.Comment</td>
+    </tr>
+}
+</tbody>
+
+    </table>
+}
