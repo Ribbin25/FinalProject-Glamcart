@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FinalProject-Glamcart")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e938fbf2aec5a0282a1a12ba517aa601e53ded")]
 [assembly: System.Reflection.AssemblyProductAttribute("FinalProject-Glamcart")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FinalProject-Glamcart")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

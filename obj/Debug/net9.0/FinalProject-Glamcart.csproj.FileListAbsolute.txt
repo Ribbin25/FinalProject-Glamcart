@@ -362,3 +362,4 @@ C:\Users\Ribbin\Desktop\CIDM3312\FinalProject-Glamcart\bin\Debug\net9.0\ru\Micro
 C:\Users\Ribbin\Desktop\CIDM3312\FinalProject-Glamcart\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Ribbin\Desktop\CIDM3312\FinalProject-Glamcart\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Ribbin\Desktop\CIDM3312\FinalProject-Glamcart\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Ribbin\Desktop\CIDM3312\FinalProject-Glamcart\obj\Debug\net9.0\FinalProject-Glamcart.sourcelink.json

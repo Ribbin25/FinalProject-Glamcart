@@ -25,10 +25,13 @@
             <p>
                 ⭐⭐⭐⭐⭐ <strong>2 reviews</strong>
             </p>
+
+         <p class="text-muted fw-bold">$@item.Price.ToString("F2")</p>
+
             <p class="fs-5">
                 @item.ProductDescription
             </p>
-            
+
             <a asp-page="/Reviews/Index"
             asp-route-productId="@item.ProductID"
             class="btn btn-primary btn-sm">
